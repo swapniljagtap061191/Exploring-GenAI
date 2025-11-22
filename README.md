@@ -10,4 +10,4 @@ Welcome to the **Gen AI Guide For Data Domain**! This guide is designed to help 
 - **RAG and Vector Stores**: Build a strong foundation with the modern AI databases.
 
 ## Watch the Full Video on YOUTUBE
-- Ansh Lamba
+https://youtu.be/9wNJ3IOfkHg?si=TD1JUJEi9qkZOIQF
